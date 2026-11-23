@@ -8,7 +8,7 @@ This repository holds the releases. The source lives with the Spaces app.
 ## Install
 
 ```sh
-brew install labsdotglass/tap/spaces
+brew install labsdotglass/spaces/spaces
 ```
 
 Or download the archive for your system from [Releases](https://github.com/labsdotglass/spaces-cli/releases),
